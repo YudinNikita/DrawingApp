@@ -1,0 +1,11 @@
+D:\download\C#\DrawingApp\bin\Debug\DrawingApp.exe.config
+D:\download\C#\DrawingApp\bin\Debug\DrawingApp.exe
+D:\download\C#\DrawingApp\bin\Debug\DrawingApp.pdb
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.csproj.SuggestedBindingRedirects.cache
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.DrawingApp.resources
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.exe
+D:\download\C#\DrawingApp\obj\Debug\DrawingApp.pdb
